@@ -5,7 +5,8 @@ facedin
   1. Download or clone this repo
   2. Make sure you have node and npm installed on your local machine. You can get tme here http://nodejs.org/.
   3. Using Node commad prompt, go to the project folder where you have cloned this project.
-  4. Type "npm install". It will download all the dependancies. Wait for complete download.
+  4. Type "npm install". It will download all the dependencies. Wait for complete download.
+  5. Type "bower install" to download javascript dependencies.
 
 #Running app  
   1. Type "grunt serve". The system will strtup a http server that runs at localhost:9000
