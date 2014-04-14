@@ -13,6 +13,10 @@ angular
         templateUrl: 'views/Facebook.html',
         controller: 'MainCtrl'
       })
+      .when('/facebook', {
+        templateUrl: 'views/Task411.html',
+        controller: 'MainCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
