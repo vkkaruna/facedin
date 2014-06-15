@@ -1,6 +1,8 @@
 facedin
 =======
 
+![Front Page](/screenshots/facedin.jpg)
+
 #Setup
   1. Download or clone this repo
   2. Make sure you have node and npm installed on your local machine. You can get tme here http://nodejs.org/.

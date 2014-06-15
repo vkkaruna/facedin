@@ -22,6 +22,32 @@ angular.module('karunahereApp')
 			});
 		};
 
+		$scope.GetEventByID = function(id) {
+			facebookService.GetAPIData('/' + id).then(function(result) {
+				if (result != null) {
+					var event = $scope.Events.filter(function(ev) {
+						return ev.id === id.toString();
+					})
+					if (event)
+						event[0].details = result;
+				}
+			});
+			$scope.GetEventPicture(id);
+		};
+
+		$scope.GetEventPicture = function(id) {
+			facebookService.GetAPIData('/' + id + '/picture').then(function(result) {
+				if (result != null) {
+					var event = $scope.Events.filter(function(ev) {
+						return ev.id === id.toString();
+					})
+					if (event)
+						event[0].pictureUrl = result.data.url;
+				}
+			});
+		};
+
+
 		$scope.eventPermission = function() {
 			FB.login(function(response) {
 				if (response.authResponse) {
