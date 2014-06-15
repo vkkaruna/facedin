@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f696ef8-05e3-4ecc-ba5d-3e9ba0b9b143" name="Default" comment="" />
+    <list default="true" id="9f696ef8-05e3-4ecc-ba5d-3e9ba0b9b143" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/a13ac7aed64918b6354f48da59490e3a.jpeg" afterPath="$PROJECT_DIR$/app/images/a13ac7aed64918b6354f48da59490e3a.jpeg" />
+    </list>
     <ignored path="facedin.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,26 +34,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Facebook2.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Facebook2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/Facebook2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="35" selection-start="1018" selection-end="1018" vertical-scroll-proportion="139.8077" vertical-offset="3958" max-vertical-offset="9299">
+            <state line="19" column="35" selection-start="1018" selection-end="1018" vertical-scroll-proportion="-6.6211295" vertical-offset="3958" max-vertical-offset="9299">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="avtr.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/images/avtr.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a13ac7aed64918b6354f48da59490e3a.jpeg" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/images/a13ac7aed64918b6354f48da59490e3a.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -253,13 +241,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -305,11 +293,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Facebook2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="35" selection-start="1018" selection-end="1018" vertical-scroll-proportion="139.8077" vertical-offset="3958" max-vertical-offset="9299">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/images/a13ac7aed64918b6354f48da59490e3a.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/images/avtr.jpg">
@@ -317,9 +303,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/a13ac7aed64918b6354f48da59490e3a.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/app/views/Facebook2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="35" selection-start="1018" selection-end="1018" vertical-scroll-proportion="-6.6211295" vertical-offset="3958" max-vertical-offset="9299">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
